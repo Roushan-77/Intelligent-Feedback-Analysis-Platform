@@ -1,0 +1,1 @@
+module.exports = { content: ['./index.html', './src/**/*.{ts,tsx}'], theme: { extend: { colors: { ink: '#18213a', canvas: '#f6f7fb', brand: '#5b4ee5' }, boxShadow: { clay: '8px 8px 18px rgba(45,55,90,.08), -6px -6px 14px rgba(255,255,255,.92)' } } }, plugins: [] }

@@ -1,0 +1,28 @@
+# Node.js / Vite
+node_modules/
+dist/
+*.tsbuildinfo
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+
+# Environment and local configuration
+.env
+.env.*
+!.env.example
+
+# Generated project data
+work/
+outputs/
+
+# IDE and operating system files
+.vscode/*
+!.vscode/settings.json
+.idea/
+.DS_Store
+Thumbs.db
